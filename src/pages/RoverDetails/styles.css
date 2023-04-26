@@ -1,0 +1,25 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.details {
+    background-color: #f4f4f4;
+    padding: 1rem;
+}
+
+.details p {
+    margin: 0;
+    padding: 0.5rem 0;
+    color: #4b0082;
+}
+
+.details p strong {
+    margin-right: 1rem;
+}

@@ -1,0 +1,23 @@
+.teams-container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.teams-title {
+    font-size: 2.5rem;
+    color: #4b0082;
+    margin-bottom: 20px;
+}
+
+.teams-table-container {
+    width: 60%;
+}
+
+.custom-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
