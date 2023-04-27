@@ -9,7 +9,7 @@ function App() {
             <Layout>
                 <Routes>
                     <Route exact path="/" Component={RoverListing} />
-                    <Route path="/rover/details/:id" Component={RoverDetails} />
+                    <Route path="/rover/details/:rover" Component={RoverDetails} />
                 </Routes>
             </Layout>
         </Router>
